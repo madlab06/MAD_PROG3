@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prog3</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="login">Login</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login1">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password1">Password</string>
+    <string name="e_mail1">E-mail</string>
+    <string name="signup">SignUp</string>
+</resources>
